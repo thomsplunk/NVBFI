@@ -1,0 +1,1 @@
+./run.sh: line 2: /cudaTensorCoreGemm: No such file or directory
